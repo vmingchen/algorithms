@@ -1,6 +1,11 @@
 This repo contains my solutions to ACM programming contest problems hosted at
 POJ (http://acm.pku.edu.cn/JudgeOnline/). You can check my profile on POJ at
-http://acm.pku.edu.cn/JudgeOnline/userstatus?user_id=cmb2
+http://acm.pku.edu.cn/JudgeOnline/userstatus?user_id=cmb2. I use POJ to study
+algorithms and sharpen my programming skill. I believe 
+
+"Having a solid base of algorithmic knowledge and technique is one
+characteristic that separates the truly skilled programmers from the novices." 
+                                            "Introduction to Algorithms"
 
 Problems are organized using their problem ID. All files about Problem X are
 placed in folder 'X', and the description of the Problem X can be found at
